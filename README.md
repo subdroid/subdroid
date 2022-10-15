@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @subdroid (Sunit Bhattacharya), a PhD student in UFAL, Faculty of Mathematics and Physics, Charles University, Prague.
+- 👀 I’m interested in Multimodal NLP (in the context of machine translation, NLU and language modelling) and psycho/neurolinguistics.
